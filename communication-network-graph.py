@@ -86,4 +86,3 @@ plt.legend(loc='upper left', fontsize=8, ncol=2)
 plt.xticks()
 plt.tight_layout()
 plt.show()
-

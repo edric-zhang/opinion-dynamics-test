@@ -82,7 +82,9 @@ effect |
 | File | Description |
 |------|-------------|
 | `communication-network-graph.py` | Main simulation script |
+| `communication-network-graph.streamlit.py` | Interactive Streamlit web app |
 | `README.md` | This document |
+
 
 ---
 
