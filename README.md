@@ -88,6 +88,8 @@ effect |
 
 ## Author
 
+**Edric Zhang**
+
 Created for exploration of collective behaviour in network systems. Opinion
 exchange and feedback control determine the emergence of an implicit distributed
 network threshold for the formation of strong opinions in response to external
