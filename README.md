@@ -16,6 +16,12 @@ The simulator allows users to explore how local interactions generate collective
 
 ---
 
+![Demo](demo.png)
+
+[Open Live App](https://edric-zhang-opinion-dynamics.streamlit.app)
+
+---
+
 ## Scientific Background
 > Leonard, N. E., Bizyaeva, A., & Franci, A. (2024).  
 > *Models of Collective Opinion Dynamics and Applications.*  

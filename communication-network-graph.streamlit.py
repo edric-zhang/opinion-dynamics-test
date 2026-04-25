@@ -23,7 +23,7 @@ run = st.button("▶ Run Simulation")
 
 # ── Figure and reference ──────────────────────────────────────
 st.image("experiment.png", width=600)
-st.caption("Experiment setup from Leonard et al (2024). Each node in the graph represents an agent (individual, robot, satellite etc .), and each edge represents a communication link between agents. Opinions evolve iteratively according to the network structure and model parameters.  ")
+st.caption("Experiment setup from Leonard et al (2024). Each node in the graph represents an agent (individual, robot, satellite etc .), and each edge represents a communication link between agents. Opinions evolve iteratively according to the network structure and model parameters. https://github.com/edric-zhang/opinion-dynamics-test ")
 
 # ── Model ────────────────────────────────────────────────────
 if run:
