@@ -2,7 +2,7 @@
 
 This app simulates the evolution of opinion dynamics over time on a communication network graph.
 
-Each node in the graph represents an individual (agent), and each edge represents a communication link between agents. 
+Each node in the graph represents an agent (individual, robot, satellite etc), and each edge represents a communication link between agents. 
 Opinions evolve iteratively according to the network structure and model parameters.
 
 The simulator allows users to explore how local interactions generate collective behaviors such as:
@@ -89,6 +89,7 @@ effect |
 |------|-------------|
 | `communication-network-graph.py` | Main simulation script |
 | `communication-network-graph.streamlit.py` | Interactive Streamlit web app |
+| `requirements.txt` | Python dependencies for the project |
 | `README.md` | This document |
 
 
