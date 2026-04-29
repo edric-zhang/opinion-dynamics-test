@@ -23,7 +23,7 @@ The simulator allows users to explore how local interactions generate collective
 ---
 
 ## Scientific Background
-> Leonard, N. E., Bizyaeva, A., & Franci, A. (2024).  *Fast and Flexible Multiagent Decision-Making. *
+> Leonard, N. E., Bizyaeva, A., & Franci, A. (2024).  **Fast and Flexible Multiagent Decision-Making.**
 > Annual Review of Control, Robotics, and Autonomous Systems, 7, 19–45.
 
 For additional details of the experimental setup, please refer to **Figure 2** of this paper.
